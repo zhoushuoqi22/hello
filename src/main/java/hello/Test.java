@@ -5,8 +5,4 @@ public class Test {
         System.out.println("hello");
 
     }
-
-    private void sayHi() {
-        System.out.println("hello.Hi");
-    }
 }
